@@ -1,0 +1,47 @@
+.position{
+    color: orange;
+    font-size: 50px;
+}
+.p2{
+    color: orange;
+    font-weight: bold;
+}
+.Name{
+    color: white;
+    font-size: 300px;
+}
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: .75rem;
+}
+.marketing .col-lg-4 {
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+.background{
+    background-color: black;
+    width: 100%;
+}
+.center{
+    text-align: center;
+}
+.skills{
+    text-align: center;
+    align-content: center;
+    border: 2px solid orange;
+    color: orange;
+    height: 40px;
+}
+.Titles{
+    text-align: center;
+    color: orange;
+    font-size: 50px;
+    font-weight: bold;
+}
+.display-1{
+    color:white;
+}
+.bg{
+    color: orange;
+}
